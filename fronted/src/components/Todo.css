@@ -1,0 +1,24 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 5px;
+
+
+    .head {
+        display: flex;
+        width: 100%;
+    }
+
+    button {
+        background-color: rgba(0, 0, 128, 0.553);
+        color: white;
+        font-size: 12px;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+        padding: 5px 10px;
+        background-color: lightcoral;
+    }
+}
